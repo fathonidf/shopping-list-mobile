@@ -1,5 +1,7 @@
 # shopping_list
 
+[Shopping List Dafton](install.appcenter.ms/orgs/shopping-list-dafton/apps/shopping-list/distribution_groups/public)
+
 A new Flutter project.
 
 ## Getting Started
